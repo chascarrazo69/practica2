@@ -7,7 +7,7 @@
 ![Gitignore Global](<Capturas de pantalla/gitignore_global.png>)
 
 ### Estructura
-![Estructura](<Capturas de pantalla/estructura.png>)
+![Estructura](<Capturas de pantalla/estructura.png>)&nbsp;
 
 
 He creado esa estrucutura y añadido esos parametros de exclusion, donde lo que no quiero excluir lo dejo con una exclamacion cerrada. Y luego al realizar un git status vemos como se detectan todos los archivos correspondientes y se excluyen los indicados
