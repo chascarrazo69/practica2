@@ -14,4 +14,5 @@ He creado esa estrucutura y añadido esos parametros de exclusion, donde lo que 
 
 ![Status](<Capturas de pantalla/status.png>)
 
-la diferencia entre excluir de forma local y global, es que la global afectaria a todos los repositorios creados y el local solo afecta al repositiorio en el que este almacenado el archivo de ".gitignore" 
+### Diferencia
+La diferencia entre excluir de forma local y global, es que la global afectaria a todos los repositorios creados y el local solo afecta al repositiorio en el que este almacenado el archivo de ".gitignore" 
