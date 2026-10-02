@@ -10,7 +10,7 @@
 ![Estructura](<Capturas de pantalla/estructura.png>)
 
 
-He creado esa estrucutura y añadido esos parametros de exclusion, donde lo que no quiero excluir lo dejo con una exclamacion cerrada. Y luego al realizar un git status vemos como se detectan todos los archivos correspondientes y se excluyen los indicados.
+He creado esa estrucutura y añadido esos parametros de exclusion, donde lo que no quiero excluir lo dejo con una exclamacion cerrada. Y luego al realizar un git status vemos como se detectan todos los archivos correspondientes y se excluyen los indicados. Ademas al comando del "git status" le he añadido unos parametros para ver los archivos y no solo las carpetas que tienen los archivos  a añadir.
 
 ![Status](<Capturas de pantalla/status.png>)
 
